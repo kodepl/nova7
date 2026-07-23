@@ -38,7 +38,7 @@ The [Chrome Web Store](https://chromewebstore.google.com/) lists plenty of exten
 
 Table Capture is a Chrome extension built specifically for this task. It scans the page for tabular data, presents the detected tables in a simple list, and lets you copy or download them as CSV, tab-delimited text, or even Markdown. It works with both old-school `<table>` elements and many CSS-based grids that behave like tables.
 
-You can find it on the Chrome Web Store by searching for the extension page or by following the link to the **chrome table capture** site at https://tablecapture.co/. The official site explains the features clearly and shows the latest version number, which is useful if you are wary of installing outdated extensions.
+You can find it on the Chrome Web Store by searching for the extension page or by following the link to the [**chrome table capture**](https://tablecapture.co/) site. The official site explains the features clearly and shows the latest version number, which is useful if you are wary of installing outdated extensions.
 
 What sets Table Capture apart is its balance between simplicity and control. The toolbar icon shows a badge when tables are detected, so you know immediately whether the page has exportable data. Clicking the icon opens a panel with a preview of each table. You can copy the whole table, copy a selection, or download it. There is no need to configure a server, sign into an account, or paste data through a third-party website. Everything happens inside the browser.
 
